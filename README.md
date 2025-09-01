@@ -6,7 +6,7 @@ My name is Giovanni and I am student interested in all things Python and Program
 - 🌱 I have recently developed workflows for a company as Work Experience
 - 🤔 I’m looking for help with breaking into the Technology/Computer Science Field
 - 👯 I am looking forward to get more Work Experience/ Internships to further develop my skills.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/hyperlegendz/) [LinkedIn](https://www.linkedin.com/in/giovanni-ibeawuchi-1812512bb/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/hyperlegendz/) or [LinkedIn](https://www.linkedin.com/in/giovanni-ibeawuchi-1812512bb/)
 - ⚡ Fun fact: I play basketball and support Milwaukee Bucks
 
 <!--
