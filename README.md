@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Giovanni and I am student interested in all things Python and Programming (such as games)
+My name is Giovanni and I am keen student interested in all things Python and Programming (such as games).
 
 - 🌱 I’m currently learning Computer Science for A-Levels and Python
 - 🌱 I have recently developed workflows for a company as Work Experience
