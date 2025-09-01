@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Python 
+- 🤔 I’m looking for help with breaking into the Technology/Computer Science Field
+- ⚡ Fun fact: I play basketball and support Milwaukee Bucks
+
 <!--
 **HyperLegendZ/HyperLegendZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
